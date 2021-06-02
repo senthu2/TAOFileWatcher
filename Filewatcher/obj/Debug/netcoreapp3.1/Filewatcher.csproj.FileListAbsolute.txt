@@ -1,0 +1,13 @@
+C:\Users\senth\source\repos\Filewatcher\Filewatcher\bin\Debug\netcoreapp3.1\Filewatcher.exe
+C:\Users\senth\source\repos\Filewatcher\Filewatcher\bin\Debug\netcoreapp3.1\Filewatcher.deps.json
+C:\Users\senth\source\repos\Filewatcher\Filewatcher\bin\Debug\netcoreapp3.1\Filewatcher.runtimeconfig.json
+C:\Users\senth\source\repos\Filewatcher\Filewatcher\bin\Debug\netcoreapp3.1\Filewatcher.runtimeconfig.dev.json
+C:\Users\senth\source\repos\Filewatcher\Filewatcher\bin\Debug\netcoreapp3.1\Filewatcher.dll
+C:\Users\senth\source\repos\Filewatcher\Filewatcher\bin\Debug\netcoreapp3.1\Filewatcher.pdb
+C:\Users\senth\source\repos\Filewatcher\Filewatcher\obj\Debug\netcoreapp3.1\Filewatcher.csprojAssemblyReference.cache
+C:\Users\senth\source\repos\Filewatcher\Filewatcher\obj\Debug\netcoreapp3.1\Filewatcher.AssemblyInfoInputs.cache
+C:\Users\senth\source\repos\Filewatcher\Filewatcher\obj\Debug\netcoreapp3.1\Filewatcher.AssemblyInfo.cs
+C:\Users\senth\source\repos\Filewatcher\Filewatcher\obj\Debug\netcoreapp3.1\Filewatcher.csproj.CoreCompileInputs.cache
+C:\Users\senth\source\repos\Filewatcher\Filewatcher\obj\Debug\netcoreapp3.1\Filewatcher.dll
+C:\Users\senth\source\repos\Filewatcher\Filewatcher\obj\Debug\netcoreapp3.1\Filewatcher.pdb
+C:\Users\senth\source\repos\Filewatcher\Filewatcher\obj\Debug\netcoreapp3.1\Filewatcher.genruntimeconfig.cache
